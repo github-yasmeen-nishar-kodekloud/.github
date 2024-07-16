@@ -23,4 +23,4 @@ jobs:
           run: npm test --if-present
 
         - name: Install Dependencies
-          run: npm run coverage --if-present 
+          run: npm run coverage --if-present  
